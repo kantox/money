@@ -99,7 +99,7 @@ describe Money::Currency::Heuristics do
       expect(it.analyze("ש״ח")).not_to eq []
       expect(it.analyze("元")).not_to eq []
       expect(it.analyze("¢")).not_to eq []
-      expect(it.analyze("£")).not_to eq [] 
+      expect(it.analyze("£")).not_to eq []
       expect(it.analyze("€")).not_to eq []
       expect(it.analyze("¥")).not_to eq []
       expect(it.analyze("د.إ")).not_to eq []

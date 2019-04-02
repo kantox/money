@@ -173,7 +173,7 @@ class Money
       it "lookups data from loaded config" do
         currency = Currency.new("USD")
         expect(currency.id).to                    eq :usd
-        expect(currency.priority).to              eq 1
+        expect(currency.priority).to              eq 8
         expect(currency.iso_code).to              eq "USD"
         expect(currency.iso_numeric).to           eq "840"
         expect(currency.name).to                  eq "United States Dollar"
@@ -217,7 +217,7 @@ class Money
     describe "#<=>" do
       it "compares objects by priority" do
         expect(Currency.new(:cad)).to be > Currency.new(:usd)
-        expect(Currency.new(:usd)).to be < Currency.new(:eur)
+        expect(Currency.new(:usd)).to be > Currency.new(:eur)
       end
 
       it "compares by id when priority is the same" do
@@ -291,7 +291,7 @@ class Money
 
     describe "#inspect" do
       it "works as documented" do
-        expect(Currency.new(:usd).inspect).to eq %Q{#<Money::Currency id: usd, priority: 1, symbol_first: true, thousands_separator: ,, html_entity: $, decimal_mark: ., name: United States Dollar, symbol: $, subunit_to_unit: 100, exponent: 2, iso_code: USD, iso_numeric: 840, subunit: Cent, smallest_denomination: 1>}
+        expect(Currency.new(:usd).inspect).to eq %Q{#<Money::Currency id: usd, priority: 8, symbol_first: true, thousands_separator: ,, html_entity: $, decimal_mark: ., name: United States Dollar, symbol: $, subunit_to_unit: 100, exponent: 2, iso_code: USD, iso_numeric: 840, subunit: Cent, smallest_denomination: 1>}
       end
     end
 
