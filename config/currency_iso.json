@@ -2316,6 +2316,21 @@
     "iso_numeric": "860",
     "smallest_denomination": 100
   },
+  "vef": {
+    "priority": 100,
+    "iso_code": "VEF",
+    "name": "Venezuelan Bolívar",
+    "symbol": "Bs",
+    "alternate_symbols": ["Bs.S"],
+    "subunit": "Céntimo",
+    "subunit_to_unit": 100,
+    "symbol_first": true,
+    "html_entity": "",
+    "decimal_mark": ".",
+    "thousands_separator": ",",
+    "iso_numeric": "937",
+    "smallest_denomination": 1
+  },
   "ves": {
     "priority": 100,
     "iso_code": "VES",
