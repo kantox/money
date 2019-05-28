@@ -2321,7 +2321,7 @@
     "iso_code": "VEF",
     "name": "Venezuelan Bolívar",
     "symbol": "Bs",
-    "alternate_symbols": ["Bs.S"],
+    "alternate_symbols": ["Bs.F"],
     "subunit": "Céntimo",
     "subunit_to_unit": 100,
     "symbol_first": true,
