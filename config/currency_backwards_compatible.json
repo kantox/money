@@ -1,6 +1,6 @@
 {
   "eek": {
-    "priority": 100,
+    "priority": 14,
     "iso_code": "EEK",
     "name": "Estonian Kroon",
     "symbol": "KR",
@@ -15,7 +15,7 @@
     "smallest_denomination": 5
   },
   "ghc": {
-    "priority": 100,
+    "priority": 64,
     "iso_code": "GHS",
     "name": "Ghanaian Cedi",
     "symbol": "₵",
@@ -61,7 +61,7 @@
     "smallest_denomination": 1
   },
   "yen": {
-    "priority": 100,
+    "priority": 72,
     "iso_code": "JPY",
     "name": "Japanese Yen",
     "symbol": "¥",
@@ -77,7 +77,7 @@
     "smallest_denomination": 100
   },
   "zwd": {
-    "priority": 100,
+    "priority": 79,
     "iso_code": "ZWD",
     "name": "Zimbabwean Dollar",
     "symbol": "$",

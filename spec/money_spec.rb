@@ -465,7 +465,7 @@ YAML
     end
 
     it "respects :decimal_mark" do
-      expect(Money.new(10_00, "BRL").to_s).to eq "10,00"
+      expect(Money.new(10_00, "BRL").to_s).to eq "10.00"
     end
 
     context "with infinite_precision", :infinite_precision do

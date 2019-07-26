@@ -1,6 +1,6 @@
 {
   "aed": {
-    "priority": 100,
+    "priority": 24,
     "iso_code": "AED",
     "name": "United Arab Emirates Dirham",
     "symbol": "د.إ",
@@ -61,7 +61,7 @@
     "smallest_denomination": 10
   },
   "ang": {
-    "priority": 100,
+    "priority": 48,
     "iso_code": "ANG",
     "name": "Netherlands Antillean Gulden",
     "symbol": "ƒ",
@@ -70,8 +70,8 @@
     "subunit_to_unit": 100,
     "symbol_first": true,
     "html_entity": "&#x0192;",
-    "decimal_mark": ",",
-    "thousands_separator": ".",
+    "decimal_mark": ".",
+    "thousands_separator": ",",
     "iso_numeric": "532",
     "smallest_denomination": 1
   },
@@ -91,7 +91,7 @@
     "smallest_denomination": 10
   },
   "ars": {
-    "priority": 100,
+    "priority": 44,
     "iso_code": "ARS",
     "name": "Argentine Peso",
     "symbol": "$",
@@ -100,9 +100,9 @@
     "subunit": "Centavo",
     "subunit_to_unit": 100,
     "symbol_first": true,
-    "html_entity": "&#x20B1;",
-    "decimal_mark": ",",
-    "thousands_separator": ".",
+    "html_entity": "$",
+    "decimal_mark": ".",
+    "thousands_separator": ",",
     "iso_numeric": "032",
     "smallest_denomination": 1
   },
@@ -168,7 +168,7 @@
     "smallest_denomination": 5
   },
   "bbd": {
-    "priority": 100,
+    "priority": 26,
     "iso_code": "BBD",
     "name": "Barbadian Dollar",
     "symbol": "$",
@@ -176,7 +176,7 @@
     "alternate_symbols": ["Bds$"],
     "subunit": "Cent",
     "subunit_to_unit": 100,
-    "symbol_first": false,
+    "symbol_first": true,
     "html_entity": "$",
     "decimal_mark": ".",
     "thousands_separator": ",",
@@ -199,7 +199,7 @@
     "smallest_denomination": 1
   },
   "bgn": {
-    "priority": 100,
+    "priority": 15,
     "iso_code": "BGN",
     "name": "Bulgarian Lev",
     "symbol": "лв.",
@@ -214,7 +214,7 @@
     "smallest_denomination": 1
   },
   "bhd": {
-    "priority": 100,
+    "priority": 27,
     "iso_code": "BHD",
     "name": "Bahraini Dinar",
     "symbol": "ب.د",
@@ -245,7 +245,7 @@
     "smallest_denomination": 100
   },
   "bmd": {
-    "priority": 100,
+    "priority": 49,
     "iso_code": "BMD",
     "name": "Bermudian Dollar",
     "symbol": "$",
@@ -292,7 +292,7 @@
     "smallest_denomination": 10
   },
   "brl": {
-    "priority": 100,
+    "priority": 43,
     "iso_code": "BRL",
     "name": "Brazilian Real",
     "symbol": "R$",
@@ -300,13 +300,13 @@
     "subunit_to_unit": 100,
     "symbol_first": true,
     "html_entity": "R$",
-    "decimal_mark": ",",
-    "thousands_separator": ".",
+    "decimal_mark": ".",
+    "thousands_separator": ",",
     "iso_numeric": "986",
     "smallest_denomination": 5
   },
   "bsd": {
-    "priority": 100,
+    "priority": 50,
     "iso_code": "BSD",
     "name": "Bahamian Dollar",
     "symbol": "$",
@@ -337,7 +337,7 @@
     "smallest_denomination": 5
   },
   "bwp": {
-    "priority": 100,
+    "priority": 7,
     "iso_code": "BWP",
     "name": "Botswana Pula",
     "symbol": "P",
@@ -362,13 +362,13 @@
     "subunit_to_unit": 100,
     "symbol_first": false,
     "html_entity": "",
-    "decimal_mark": ",",
-    "thousands_separator": " ",
+    "decimal_mark": ".",
+    "thousands_separator": ",",
     "iso_numeric": "933",
     "smallest_denomination": 1
   },
   "byr": {
-    "priority": 50,
+    "priority": 100,
     "iso_code": "BYR",
     "name": "Belarusian Ruble",
     "symbol": "Br",
@@ -378,13 +378,13 @@
     "subunit_to_unit": 1,
     "symbol_first": false,
     "html_entity": "",
-    "decimal_mark": ",",
-    "thousands_separator": " ",
+    "decimal_mark": ".",
+    "thousands_separator": ",",
     "iso_numeric": "974",
     "smallest_denomination": 100
   },
   "bzd": {
-    "priority": 100,
+    "priority": 51,
     "iso_code": "BZD",
     "name": "Belize Dollar",
     "symbol": "$",
@@ -400,7 +400,7 @@
     "smallest_denomination": 1
   },
   "cad": {
-    "priority": 5,
+    "priority": 9,
     "iso_code": "CAD",
     "name": "Canadian Dollar",
     "symbol": "$",
@@ -432,7 +432,7 @@
     "smallest_denomination": 1
   },
   "chf": {
-    "priority": 100,
+    "priority": 10,
     "iso_code": "CHF",
     "name": "Swiss Franc",
     "symbol": "CHF",
@@ -456,12 +456,12 @@
     "subunit_to_unit": 10000,
     "symbol_first": true,
     "html_entity": "&#x20B1;",
-    "decimal_mark": ",",
-    "thousands_separator": ".",
+    "decimal_mark": ".",
+    "thousands_separator": ",",
     "iso_numeric": "990"
   },
   "clp": {
-    "priority": 100,
+    "priority": 46,
     "iso_code": "CLP",
     "name": "Chilean Peso",
     "symbol": "$",
@@ -471,13 +471,13 @@
     "subunit_to_unit": 1,
     "symbol_first": true,
     "html_entity": "&#36;",
-    "decimal_mark": ",",
-    "thousands_separator": ".",
+    "decimal_mark": ".",
+    "thousands_separator": ",",
     "iso_numeric": "152",
     "smallest_denomination": 1
   },
   "cny": {
-    "priority": 100,
+    "priority": 66,
     "iso_code": "CNY",
     "name": "Chinese Renminbi Yuan",
     "symbol": "¥",
@@ -492,7 +492,7 @@
     "smallest_denomination": 1
   },
   "cop": {
-    "priority": 100,
+    "priority": 76,
     "iso_code": "COP",
     "name": "Colombian Peso",
     "symbol": "$",
@@ -501,9 +501,9 @@
     "subunit": "Centavo",
     "subunit_to_unit": 100,
     "symbol_first": true,
-    "html_entity": "&#x20B1;",
-    "decimal_mark": ",",
-    "thousands_separator": ".",
+    "html_entity": "&#36;",
+    "decimal_mark": ".",
+    "thousands_separator": ",",
     "iso_numeric": "170",
     "smallest_denomination": 20
   },
@@ -517,8 +517,8 @@
     "subunit_to_unit": 100,
     "symbol_first": true,
     "html_entity": "&#x20A1;",
-    "decimal_mark": ",",
-    "thousands_separator": ".",
+    "decimal_mark": ".",
+    "thousands_separator": ",",
     "iso_numeric": "188",
     "smallest_denomination": 500
   },
@@ -571,7 +571,7 @@
     "smallest_denomination": 100
   },
   "czk": {
-    "priority": 100,
+    "priority": 41,
     "iso_code": "CZK",
     "name": "Czech Koruna",
     "symbol": "Kč",
@@ -580,8 +580,8 @@
     "subunit_to_unit": 100,
     "symbol_first": false,
     "html_entity": "",
-    "decimal_mark": ",",
-    "thousands_separator": ".",
+    "decimal_mark": ".",
+    "thousands_separator": ",",
     "iso_numeric": "203",
     "smallest_denomination": 100
   },
@@ -601,7 +601,7 @@
     "smallest_denomination": 100
   },
   "dkk": {
-    "priority": 100,
+    "priority": 20,
     "iso_code": "DKK",
     "name": "Danish Krone",
     "symbol": "kr.",
@@ -611,8 +611,8 @@
     "subunit_to_unit": 100,
     "symbol_first": false,
     "html_entity": "",
-    "decimal_mark": ",",
-    "thousands_separator": ".",
+    "decimal_mark": ".",
+    "thousands_separator": ",",
     "iso_numeric": "208",
     "smallest_denomination": 50
   },
@@ -648,7 +648,7 @@
     "smallest_denomination": 100
   },
   "egp": {
-    "priority": 100,
+    "priority": 52,
     "iso_code": "EGP",
     "name": "Egyptian Pound",
     "symbol": "ج.م",
@@ -694,7 +694,7 @@
     "smallest_denomination": 1
   },
   "eur": {
-    "priority": 2,
+    "priority": 1,
     "iso_code": "EUR",
     "name": "Euro",
     "symbol": "€",
@@ -703,13 +703,13 @@
     "subunit_to_unit": 100,
     "symbol_first": true,
     "html_entity": "&#x20AC;",
-    "decimal_mark": ",",
-    "thousands_separator": ".",
+    "decimal_mark": ".",
+    "thousands_separator": ",",
     "iso_numeric": "978",
     "smallest_denomination": 1
   },
   "fjd": {
-    "priority": 100,
+    "priority": 6,
     "iso_code": "FJD",
     "name": "Fijian Dollar",
     "symbol": "$",
@@ -741,7 +741,7 @@
     "smallest_denomination": 1
   },
   "gbp": {
-    "priority": 3,
+    "priority": 2,
     "iso_code": "GBP",
     "name": "British Pound",
     "symbol": "£",
@@ -771,7 +771,7 @@
     "smallest_denomination": 1
   },
   "ghs": {
-    "priority": 100,
+    "priority": 64,
     "iso_code": "GHS",
     "name": "Ghanaian Cedi",
     "symbol": "₵",
@@ -864,7 +864,7 @@
     "smallest_denomination": 100
   },
   "hkd": {
-    "priority": 100,
+    "priority": 22,
     "iso_code": "HKD",
     "name": "Hong Kong Dollar",
     "symbol": "$",
@@ -896,7 +896,7 @@
     "smallest_denomination": 5
   },
   "hrk": {
-    "priority": 100,
+    "priority": 13,
     "iso_code": "HRK",
     "name": "Croatian Kuna",
     "symbol": "kn",
@@ -905,8 +905,8 @@
     "subunit_to_unit": 100,
     "symbol_first": false,
     "html_entity": "",
-    "decimal_mark": ",",
-    "thousands_separator": ".",
+    "decimal_mark": ".",
+    "thousands_separator": ",",
     "iso_numeric": "191",
     "smallest_denomination": 1
   },
@@ -926,7 +926,7 @@
     "smallest_denomination": 5
   },
   "huf": {
-    "priority": 100,
+    "priority": 80,
     "iso_code": "HUF",
     "name": "Hungarian Forint",
     "symbol": "Ft",
@@ -935,13 +935,13 @@
     "subunit_to_unit": 100,
     "symbol_first": false,
     "html_entity": "",
-    "decimal_mark": ",",
-    "thousands_separator": ".",
+    "decimal_mark": ".",
+    "thousands_separator": ",",
     "iso_numeric": "348",
     "smallest_denomination": 500
   },
   "idr": {
-    "priority": 100,
+    "priority": 85,
     "iso_code": "IDR",
     "name": "Indonesian Rupiah",
     "symbol": "Rp",
@@ -950,13 +950,13 @@
     "subunit_to_unit": 100,
     "symbol_first": true,
     "html_entity": "",
-    "decimal_mark": ",",
-    "thousands_separator": ".",
+    "decimal_mark": ".",
+    "thousands_separator": ",",
     "iso_numeric": "360",
     "smallest_denomination": 5000
   },
   "ils": {
-    "priority": 100,
+    "priority": 19,
     "iso_code": "ILS",
     "name": "Israeli New Sheqel",
     "symbol": "₪",
@@ -971,7 +971,7 @@
     "smallest_denomination": 10
   },
   "inr": {
-    "priority": 100,
+    "priority": 29,
     "iso_code": "INR",
     "name": "Indian Rupee",
     "symbol": "₹",
@@ -1016,7 +1016,7 @@
     "smallest_denomination": 5000
   },
   "isk": {
-    "priority": 100,
+    "priority": 30,
     "iso_code": "ISK",
     "name": "Icelandic Króna",
     "symbol": "kr",
@@ -1025,13 +1025,13 @@
     "subunit_to_unit": 1,
     "symbol_first": true,
     "html_entity": "",
-    "decimal_mark": ",",
-    "thousands_separator": ".",
+    "decimal_mark": ".",
+    "thousands_separator": ",",
     "iso_numeric": "352",
     "smallest_denomination": 1
   },
   "jmd": {
-    "priority": 100,
+    "priority": 31,
     "iso_code": "JMD",
     "name": "Jamaican Dollar",
     "symbol": "$",
@@ -1047,7 +1047,7 @@
     "smallest_denomination": 1
   },
   "jod": {
-    "priority": 100,
+    "priority": 32,
     "iso_code": "JOD",
     "name": "Jordanian Dinar",
     "symbol": "د.ا",
@@ -1062,7 +1062,7 @@
     "smallest_denomination": 5
   },
   "jpy": {
-    "priority": 6,
+    "priority": 72,
     "iso_code": "JPY",
     "name": "Japanese Yen",
     "symbol": "¥",
@@ -1077,7 +1077,7 @@
     "smallest_denomination": 1
   },
   "kes": {
-    "priority": 100,
+    "priority": 67,
     "iso_code": "KES",
     "name": "Kenyan Shilling",
     "symbol": "KSh",
@@ -1153,7 +1153,7 @@
     "smallest_denomination": 1
   },
   "krw": {
-    "priority": 100,
+    "priority": 81,
     "iso_code": "KRW",
     "name": "South Korean Won",
     "symbol": "₩",
@@ -1168,7 +1168,7 @@
     "smallest_denomination": 1
   },
   "kwd": {
-    "priority": 100,
+    "priority": 33,
     "iso_code": "KWD",
     "name": "Kuwaiti Dinar",
     "symbol": "د.ك",
@@ -1183,7 +1183,7 @@
     "smallest_denomination": 5
   },
   "kyd": {
-    "priority": 100,
+    "priority": 54,
     "iso_code": "KYD",
     "name": "Cayman Islands Dollar",
     "symbol": "$",
@@ -1199,7 +1199,7 @@
     "smallest_denomination": 1
   },
   "kzt": {
-    "priority": 100,
+    "priority": 86,
     "iso_code": "KZT",
     "name": "Kazakhstani Tenge",
     "symbol": "〒",
@@ -1244,7 +1244,7 @@
     "smallest_denomination": 25000
   },
   "lkr": {
-    "priority": 100,
+    "priority": 55,
     "iso_code": "LKR",
     "name": "Sri Lankan Rupee",
     "symbol": "₨",
@@ -1253,7 +1253,7 @@
     "subunit": "Cent",
     "subunit_to_unit": 100,
     "symbol_first": false,
-    "html_entity": "&#x0BF9;",
+    "html_entity": "&#8360;",
     "decimal_mark": ".",
     "thousands_separator": ",",
     "iso_numeric": "144",
@@ -1276,7 +1276,7 @@
     "smallest_denomination": 5
   },
   "lsl": {
-    "priority": 100,
+    "priority": 68,
     "iso_code": "LSL",
     "name": "Lesotho Loti",
     "symbol": "L",
@@ -1337,7 +1337,7 @@
     "smallest_denomination": 50
   },
   "mad": {
-    "priority": 100,
+    "priority": 34,
     "iso_code": "MAD",
     "name": "Moroccan Dirham",
     "symbol": "د.م.",
@@ -1367,7 +1367,7 @@
     "smallest_denomination": 1
   },
   "mga": {
-    "priority": 100,
+    "priority": 84,
     "iso_code": "MGA",
     "name": "Malagasy Ariary",
     "symbol": "Ar",
@@ -1458,7 +1458,7 @@
     "smallest_denomination": 1
   },
   "mur": {
-    "priority": 100,
+    "priority": 69,
     "iso_code": "MUR",
     "name": "Mauritian Rupee",
     "symbol": "₨",
@@ -1488,7 +1488,7 @@
     "smallest_denomination": 1
   },
   "mwk": {
-    "priority": 100,
+    "priority": 74,
     "iso_code": "MWK",
     "name": "Malawian Kwacha",
     "symbol": "MK",
@@ -1503,7 +1503,7 @@
     "smallest_denomination": 1
   },
   "mxn": {
-    "priority": 100,
+    "priority": 28,
     "iso_code": "MXN",
     "name": "Mexican Peso",
     "symbol": "$",
@@ -1519,7 +1519,7 @@
     "smallest_denomination": 5
   },
   "myr": {
-    "priority": 100,
+    "priority": 56,
     "iso_code": "MYR",
     "name": "Malaysian Ringgit",
     "symbol": "RM",
@@ -1543,13 +1543,13 @@
     "subunit_to_unit": 100,
     "symbol_first": true,
     "html_entity": "",
-    "decimal_mark": ",",
-    "thousands_separator": ".",
+    "decimal_mark": ".",
+    "thousands_separator": ",",
     "iso_numeric": "943",
     "smallest_denomination": 1
   },
   "nad": {
-    "priority": 100,
+    "priority": 70,
     "iso_code": "NAD",
     "name": "Namibian Dollar",
     "symbol": "$",
@@ -1565,7 +1565,7 @@
     "smallest_denomination": 5
   },
   "ngn": {
-    "priority": 100,
+    "priority": 73,
     "iso_code": "NGN",
     "name": "Nigerian Naira",
     "symbol": "₦",
@@ -1584,10 +1584,11 @@
     "iso_code": "NIO",
     "name": "Nicaraguan Córdoba",
     "symbol": "C$",
+    "disambiguate_symbol": "NIO$",
     "alternate_symbols": [],
     "subunit": "Centavo",
     "subunit_to_unit": 100,
-    "symbol_first": false,
+    "symbol_first": true,
     "html_entity": "",
     "decimal_mark": ".",
     "thousands_separator": ",",
@@ -1595,7 +1596,7 @@
     "smallest_denomination": 5
   },
   "nok": {
-    "priority": 100,
+    "priority": 23,
     "iso_code": "NOK",
     "name": "Norwegian Krone",
     "symbol": "kr",
@@ -1605,8 +1606,8 @@
     "subunit_to_unit": 100,
     "symbol_first": false,
     "html_entity": "kr",
-    "decimal_mark": ",",
-    "thousands_separator": ".",
+    "decimal_mark": ".",
+    "thousands_separator": ",",
     "iso_numeric": "578",
     "smallest_denomination": 100
   },
@@ -1627,7 +1628,7 @@
     "smallest_denomination": 1
   },
   "nzd": {
-    "priority": 100,
+    "priority": 5,
     "iso_code": "NZD",
     "name": "New Zealand Dollar",
     "symbol": "$",
@@ -1643,7 +1644,7 @@
     "smallest_denomination": 10
   },
   "omr": {
-    "priority": 100,
+    "priority": 35,
     "iso_code": "OMR",
     "name": "Omani Rial",
     "symbol": "ر.ع.",
@@ -1665,7 +1666,7 @@
     "alternate_symbols": [],
     "subunit": "Centésimo",
     "subunit_to_unit": 100,
-    "symbol_first": false,
+    "symbol_first": true,
     "html_entity": "",
     "decimal_mark": ".",
     "thousands_separator": ",",
@@ -1673,15 +1674,15 @@
     "smallest_denomination": 1
   },
   "pen": {
-    "priority": 100,
+    "priority": 88,
     "iso_code": "PEN",
-    "name": "Peruvian Nuevo Sol",
-    "symbol": "S/.",
+    "name": "Peruvian Sol",
+    "symbol": "S/",
     "alternate_symbols": [],
     "subunit": "Céntimo",
     "subunit_to_unit": 100,
     "symbol_first": true,
-    "html_entity": "S/.",
+    "html_entity": "S/",
     "decimal_mark": ".",
     "thousands_separator": ",",
     "iso_numeric": "604",
@@ -1704,7 +1705,7 @@
     "smallest_denomination": 5
   },
   "php": {
-    "priority": 100,
+    "priority": 57,
     "iso_code": "PHP",
     "name": "Philippine Peso",
     "symbol": "₱",
@@ -1719,7 +1720,7 @@
     "smallest_denomination": 1
   },
   "pkr": {
-    "priority": 100,
+    "priority": 58,
     "iso_code": "PKR",
     "name": "Pakistani Rupee",
     "symbol": "₨",
@@ -1735,7 +1736,7 @@
     "smallest_denomination": 100
   },
   "pln": {
-    "priority": 100,
+    "priority": 17,
     "iso_code": "PLN",
     "name": "Polish Złoty",
     "symbol": "zł",
@@ -1744,8 +1745,8 @@
     "subunit_to_unit": 100,
     "symbol_first": false,
     "html_entity": "z&#322;",
-    "decimal_mark": ",",
-    "thousands_separator": " ",
+    "decimal_mark": ".",
+    "thousands_separator": ",",
     "iso_numeric": "985",
     "smallest_denomination": 1
   },
@@ -1765,7 +1766,7 @@
     "smallest_denomination": 5000
   },
   "qar": {
-    "priority": 100,
+    "priority": 36,
     "iso_code": "QAR",
     "name": "Qatari Riyal",
     "symbol": "ر.ق",
@@ -1780,22 +1781,22 @@
     "smallest_denomination": 1
   },
   "ron": {
-    "priority": 100,
+    "priority": 82,
     "iso_code": "RON",
     "name": "Romanian Leu",
     "symbol": "Lei",
     "alternate_symbols": [],
     "subunit": "Bani",
     "subunit_to_unit": 100,
-    "symbol_first": true,
+    "symbol_first": false,
     "html_entity": "",
-    "decimal_mark": ",",
-    "thousands_separator": ".",
+    "decimal_mark": ".",
+    "thousands_separator": ",",
     "iso_numeric": "946",
     "smallest_denomination": 1
   },
   "rsd": {
-    "priority": 100,
+    "priority": 83,
     "iso_code": "RSD",
     "name": "Serbian Dinar",
     "symbol": "РСД",
@@ -1810,7 +1811,7 @@
     "smallest_denomination": 100
   },
   "rub": {
-    "priority": 100,
+    "priority": 63,
     "iso_code": "RUB",
     "name": "Russian Ruble",
     "symbol": "₽",
@@ -1819,8 +1820,8 @@
     "subunit_to_unit": 100,
     "symbol_first": false,
     "html_entity": "&#x20BD;",
-    "decimal_mark": ",",
-    "thousands_separator": ".",
+    "decimal_mark": ".",
+    "thousands_separator": ",",
     "iso_numeric": "643",
     "smallest_denomination": 1
   },
@@ -1840,7 +1841,7 @@
     "smallest_denomination": 100
   },
   "sar": {
-    "priority": 100,
+    "priority": 37,
     "iso_code": "SAR",
     "name": "Saudi Riyal",
     "symbol": "ر.س",
@@ -1871,7 +1872,7 @@
     "smallest_denomination": 10
   },
   "scr": {
-    "priority": 100,
+    "priority": 59,
     "iso_code": "SCR",
     "name": "Seychellois Rupee",
     "symbol": "₨",
@@ -1903,7 +1904,7 @@
     "smallest_denomination": 1
   },
   "sek": {
-    "priority": 100,
+    "priority": 25,
     "iso_code": "SEK",
     "name": "Swedish Krona",
     "symbol": "kr",
@@ -1913,13 +1914,13 @@
     "subunit_to_unit": 100,
     "symbol_first": false,
     "html_entity": "",
-    "decimal_mark": ",",
-    "thousands_separator": " ",
+    "decimal_mark": ".",
+    "thousands_separator": ",",
     "iso_numeric": "752",
     "smallest_denomination": 100
   },
   "sgd": {
-    "priority": 100,
+    "priority": 16,
     "iso_code": "SGD",
     "name": "Singapore Dollar",
     "symbol": "$",
@@ -1951,7 +1952,7 @@
     "smallest_denomination": 1
   },
   "skk": {
-    "priority": 100,
+    "priority": 42,
     "iso_code": "SKK",
     "name": "Slovak Koruna",
     "symbol": "Sk",
@@ -2042,6 +2043,21 @@
     "iso_numeric": "678",
     "smallest_denomination": 10000
   },
+  "stn": {
+    "priority": 100,
+    "iso_code": "STN",
+    "name": "São Tomé and Príncipe Dobra",
+    "symbol": "Db",
+    "alternate_symbols": [],
+    "subunit": "Cêntimo",
+    "subunit_to_unit": 100,
+    "symbol_first": false,
+    "html_entity": "",
+    "decimal_mark": ".",
+    "thousands_separator": ",",
+    "iso_numeric": "930",
+    "smallest_denomination": 10000
+  },
   "svc": {
     "priority": 100,
     "iso_code": "SVC",
@@ -2073,7 +2089,7 @@
     "smallest_denomination": 100
   },
   "szl": {
-    "priority": 100,
+    "priority": 71,
     "iso_code": "SZL",
     "name": "Swazi Lilangeni",
     "symbol": "E",
@@ -2088,7 +2104,7 @@
     "smallest_denomination": 1
   },
   "thb": {
-    "priority": 100,
+    "priority": 38,
     "iso_code": "THB",
     "name": "Thai Baht",
     "symbol": "฿",
@@ -2133,7 +2149,7 @@
     "smallest_denomination": 1
   },
   "tnd": {
-    "priority": 100,
+    "priority": 39,
     "iso_code": "TND",
     "name": "Tunisian Dinar",
     "symbol": "د.ت",
@@ -2163,7 +2179,7 @@
     "smallest_denomination": 1
   },
   "try": {
-    "priority": 100,
+    "priority": 18,
     "iso_code": "TRY",
     "name": "Turkish Lira",
     "symbol": "₺",
@@ -2172,13 +2188,13 @@
     "subunit_to_unit": 100,
     "symbol_first": true,
     "html_entity": "&#8378;",
-    "decimal_mark": ",",
-    "thousands_separator": ".",
+    "decimal_mark": ".",
+    "thousands_separator": ",",
     "iso_numeric": "949",
     "smallest_denomination": 1
   },
   "ttd": {
-    "priority": 100,
+    "priority": 60,
     "iso_code": "TTD",
     "name": "Trinidad and Tobago Dollar",
     "symbol": "$",
@@ -2194,7 +2210,7 @@
     "smallest_denomination": 1
   },
   "twd": {
-    "priority": 100,
+    "priority": 47,
     "iso_code": "TWD",
     "name": "New Taiwan Dollar",
     "symbol": "$",
@@ -2210,7 +2226,7 @@
     "smallest_denomination": 50
   },
   "tzs": {
-    "priority": 100,
+    "priority": 75,
     "iso_code": "TZS",
     "name": "Tanzanian Shilling",
     "symbol": "Sh",
@@ -2225,7 +2241,7 @@
     "smallest_denomination": 5000
   },
   "uah": {
-    "priority": 100,
+    "priority": 62,
     "iso_code": "UAH",
     "name": "Ukrainian Hryvnia",
     "symbol": "₴",
@@ -2240,7 +2256,7 @@
     "smallest_denomination": 1
   },
   "ugx": {
-    "priority": 100,
+    "priority": 77,
     "iso_code": "UGX",
     "name": "Ugandan Shilling",
     "symbol": "USh",
@@ -2255,7 +2271,7 @@
     "smallest_denomination": 1000
   },
   "usd": {
-    "priority": 1,
+    "priority": 8,
     "iso_code": "USD",
     "name": "United States Dollar",
     "symbol": "$",
@@ -2271,7 +2287,7 @@
     "smallest_denomination": 1
   },
   "uyu": {
-    "priority": 100,
+    "priority": 45,
     "iso_code": "UYU",
     "name": "Uruguayan Peso",
     "symbol": "$",
@@ -2280,17 +2296,17 @@
     "subunit_to_unit": 100,
     "symbol_first": true,
     "html_entity": "&#x20B1;",
-    "decimal_mark": ",",
-    "thousands_separator": ".",
+    "decimal_mark": ".",
+    "thousands_separator": ",",
     "iso_numeric": "858",
     "smallest_denomination": 100
   },
   "uzs": {
     "priority": 100,
     "iso_code": "UZS",
-    "name": "Uzbekistani Som",
-    "symbol": null,
-    "alternate_symbols": [],
+    "name": "Uzbekistan Som",
+    "symbol": "",
+    "alternate_symbols": ["so‘m", "сўм", "сум", "s", "с"],
     "subunit": "Tiyin",
     "subunit_to_unit": 100,
     "symbol_first": false,
@@ -2310,9 +2326,24 @@
     "subunit_to_unit": 100,
     "symbol_first": true,
     "html_entity": "",
-    "decimal_mark": ",",
-    "thousands_separator": ".",
+    "decimal_mark": ".",
+    "thousands_separator": ",",
     "iso_numeric": "937",
+    "smallest_denomination": 1
+  },
+  "ves": {
+    "priority": 100,
+    "iso_code": "VES",
+    "name": "Venezuelan Bolívar Soberano",
+    "symbol": "Bs",
+    "alternate_symbols": ["Bs.S"],
+    "subunit": "Céntimo",
+    "subunit_to_unit": 100,
+    "symbol_first": true,
+    "html_entity": "",
+    "decimal_mark": ".",
+    "thousands_separator": ",",
+    "iso_numeric": "928",
     "smallest_denomination": 1
   },
   "vnd": {
@@ -2323,15 +2354,15 @@
     "alternate_symbols": [],
     "subunit": "Hào",
     "subunit_to_unit": 1,
-    "symbol_first": true,
+    "symbol_first": false,
     "html_entity": "&#x20AB;",
-    "decimal_mark": ",",
-    "thousands_separator": ".",
+    "decimal_mark": ".",
+    "thousands_separator": ",",
     "iso_numeric": "704",
     "smallest_denomination": 100
   },
   "vuv": {
-    "priority": 100,
+    "priority": 61,
     "iso_code": "VUV",
     "name": "Vanuatu Vatu",
     "symbol": "Vt",
@@ -2369,7 +2400,7 @@
     "disambiguate_symbol": "FCFA",
     "alternate_symbols": ["FCFA"],
     "subunit": "Centime",
-    "subunit_to_unit": 100,
+    "subunit_to_unit": 1,
     "symbol_first": false,
     "html_entity": "",
     "decimal_mark": ".",
@@ -2407,8 +2438,68 @@
     "thousands_separator": ",",
     "iso_numeric": "959"
   },
-  "xcd": {
+  "xba": {
     "priority": 100,
+    "iso_code": "XBA",
+    "name": "European Composite Unit",
+    "symbol": "",
+    "disambiguate_symbol": "XBA",
+    "alternate_symbols": [],
+    "subunit": "",
+    "subunit_to_unit": 1,
+    "symbol_first": false,
+    "html_entity": "",
+    "decimal_mark": ".",
+    "thousands_separator": ",",
+    "iso_numeric": "955"
+  },
+  "xbb": {
+    "priority": 100,
+    "iso_code": "XBB",
+    "name": "European Monetary Unit",
+    "symbol": "",
+    "disambiguate_symbol": "XBB",
+    "alternate_symbols": [],
+    "subunit": "",
+    "subunit_to_unit": 1,
+    "symbol_first": false,
+    "html_entity": "",
+    "decimal_mark": ".",
+    "thousands_separator": ",",
+    "iso_numeric": "956"
+  },
+  "xbc": {
+    "priority": 100,
+    "iso_code": "XBC",
+    "name": "European Unit of Account 9",
+    "symbol": "",
+    "disambiguate_symbol": "XBC",
+    "alternate_symbols": [],
+    "subunit": "",
+    "subunit_to_unit": 1,
+    "symbol_first": false,
+    "html_entity": "",
+    "decimal_mark": ".",
+    "thousands_separator": ",",
+    "iso_numeric": "957"
+  },
+  "xbd": {
+    "priority": 100,
+    "iso_code": "XBD",
+    "name": "European Unit of Account 17",
+    "symbol": "",
+    "disambiguate_symbol": "XBD",
+    "alternate_symbols": [],
+    "subunit": "",
+    "subunit_to_unit": 1,
+    "symbol_first": false,
+    "html_entity": "",
+    "decimal_mark": ".",
+    "thousands_separator": ",",
+    "iso_numeric": "958"
+  },
+  "xcd": {
+    "priority": 40,
     "iso_code": "XCD",
     "name": "East Caribbean Dollar",
     "symbol": "$",
@@ -2453,6 +2544,21 @@
     "iso_numeric": "952",
     "smallest_denomination": 100
   },
+  "xpd": {
+    "priority": 100,
+    "iso_code": "XPD",
+    "name": "Palladium",
+    "symbol": "oz t",
+    "disambiguate_symbol": "XPD",
+    "alternate_symbols": [],
+    "subunit": "oz",
+    "subunit_to_unit": 1,
+    "symbol_first": false,
+    "html_entity": "",
+    "decimal_mark": ".",
+    "thousands_separator": ",",
+    "iso_numeric": "964"
+  },
   "xpf": {
     "priority": 100,
     "iso_code": "XPF",
@@ -2467,6 +2573,36 @@
     "thousands_separator": ",",
     "iso_numeric": "953",
     "smallest_denomination": 100
+  },
+  "xpt": {
+    "priority": 100,
+    "iso_code": "XPT",
+    "name": "Platinum",
+    "symbol": "oz t",
+    "alternate_symbols": [],
+    "subunit": "",
+    "subunit_to_unit": 1,
+    "symbol_first": false,
+    "html_entity": "",
+    "decimal_mark": ".",
+    "thousands_separator": ",",
+    "iso_numeric": "962",
+    "smallest_denomination": ""
+  },
+  "xts": {
+    "priority": 100,
+    "iso_code": "XTS",
+    "name": "Codes specifically reserved for testing purposes",
+    "symbol": "",
+    "alternate_symbols": [],
+    "subunit": "",
+    "subunit_to_unit": 1,
+    "symbol_first": false,
+    "html_entity": "",
+    "decimal_mark": ".",
+    "thousands_separator": ",",
+    "iso_numeric": "963",
+    "smallest_denomination": ""
   },
   "yer": {
     "priority": 100,
@@ -2484,7 +2620,7 @@
     "smallest_denomination": 100
   },
   "zar": {
-    "priority": 100,
+    "priority": 21,
     "iso_code": "ZAR",
     "name": "South African Rand",
     "symbol": "R",
@@ -2499,7 +2635,7 @@
     "smallest_denomination": 10
   },
   "zmk": {
-    "priority": 100,
+    "priority": 78,
     "iso_code": "ZMK",
     "name": "Zambian Kwacha",
     "symbol": "ZK",
